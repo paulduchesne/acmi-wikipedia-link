@@ -1,2 +1,4 @@
 wikipedia/
+wikidata/
 creator_wikipedia_pages.parquet
+render.csv
